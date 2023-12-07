@@ -3,13 +3,10 @@
 # ELFCORE
 
 ## moduli
-core: strutture dati e funzioni basilari per file elf
-		section-header:
-		section
-		segment
+core: strutture dati e funzioni basilari per file elf, section-header, section, segment
 	
 ## parser
-funzioni per arg in input e 
+funzioni per arg in input 
 	
 
 ## pwn
