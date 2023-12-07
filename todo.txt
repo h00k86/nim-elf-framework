@@ -1,0 +1,9 @@
+
+
+
+TODO
+[] trovare un nome per il programma
+[] creare main file e funzione per leggere primo argomento(nome file) 
+[] definire strutture principali e section header
+
+
