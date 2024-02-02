@@ -7,6 +7,7 @@
 
 import unittest
 
-import elfcore
-test "can add":
-  check add(5, 5) == 10
+import elfcore/src/elfstruct
+
+test "stampa pd":
+  check stampa() == "hello"

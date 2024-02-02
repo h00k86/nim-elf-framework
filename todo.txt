@@ -2,8 +2,10 @@
 
 
 TODO
-[] trovare un nome per il programma
+[*] trovare un nome per il programma -> nimelf
+
+
+[] tradurre file readme in inglese
 [] creare main file e funzione per leggere primo argomento(nome file) 
-[] definire strutture principali e section header
-
-
+[] capire come stampare hex e come salvarli ( se in hex o in char)
+[] definire ELF Identification
